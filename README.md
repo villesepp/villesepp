@@ -2,7 +2,7 @@
 
 👀 I’m interested in coding, Blender and game develpment in general
 
-🌱 I’m currently learning C, Blender and things related to game development
+🌱 I’m currently studying the C programming language
 
 📫 How to reach me: ville (dot) seppanen (at) gmail (dot) com
 
